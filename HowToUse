@@ -1,4 +1,4 @@
-First, open the terminal and paste this code:
+First, extract the file to /storage/emulated/0. Open the terminal and paste this code:
 sh /storage/emulated/0/dd.sh
 Don't forget to add the package name next to the code, for example:
 sh /storage/emulated/0/dd.sh com.whatsapp
